@@ -12,3 +12,9 @@ h2 {
     color: green;
     font-family: 'Times New Roman', Times, serif;
 }
+.highlight{
+    color: green;
+}
+p.highlight{
+    font-style: italic;
+}
